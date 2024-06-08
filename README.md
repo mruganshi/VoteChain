@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Votechain
 Developed a robust Online Voting System using Ethereum Blockchain, ensuring secure transactions and data integrity.
 =======
@@ -107,4 +107,3 @@ npm start
 - [Blockchain-Based Voting Considered Harmful?](https://ieeexplore.ieee.org/document/9790326)
 - [ReactJS Documentation](https://legacy.reactjs.org/docs/getting-started.html)
 - [Solidity Documentation](https://docs.soliditylang.org/en/v0.8.23/)
->>>>>>> 64e61f7 (First commit)
